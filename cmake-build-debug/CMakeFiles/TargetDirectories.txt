@@ -1,0 +1,3 @@
+C:/KSE/OOP_design/cmake-build-debug/CMakeFiles/OOP_design.dir
+C:/KSE/OOP_design/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/KSE/OOP_design/cmake-build-debug/CMakeFiles/rebuild_cache.dir
